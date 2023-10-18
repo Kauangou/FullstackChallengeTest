@@ -1,5 +1,7 @@
 package Entities;
 
+import Entities.Enums.Estado;
+
 import java.util.Objects;
 
 public class Apartamento {
@@ -8,7 +10,6 @@ public class Apartamento {
     Estado estado;
 
     public Apartamento() {
-
     }
 
     public Apartamento(int id, int numero) {
@@ -56,7 +57,6 @@ public class Apartamento {
         this.setNumero(numero);
         this.setEstado(estado);
     }
-
 
     @Override
     public boolean equals(Object o) {
