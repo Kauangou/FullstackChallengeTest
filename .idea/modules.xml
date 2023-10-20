@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FullstackChallenge.iml" filepath="$PROJECT_DIR$/FullstackChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FullstackChallengeTest.iml" filepath="$PROJECT_DIR$/FullstackChallengeTest.iml" />
     </modules>
   </component>
 </project>

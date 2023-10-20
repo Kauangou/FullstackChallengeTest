@@ -1,6 +1,6 @@
 package Entities;
 
-import Entities.Enums.Estado;
+import Enums.Estado;
 
 import java.util.Objects;
 
